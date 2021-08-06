@@ -1,5 +1,5 @@
 ---
-title: BepInEx Guide
+title: BepInEx
 ---
 
 
